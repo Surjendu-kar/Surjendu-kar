@@ -34,7 +34,7 @@
 <div align="center">
     <div style="margin-bottom: 20px;">
 <!--     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dev-Surjendu&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="Dev-Surjendu's Stats" /> -->
-<!--          <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Surjendu&theme=tokyonight" alt="Top Langs" />  recent--> 
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surjendu-kar&theme=tokyonight" alt="Top Langs" />   
     </div>
     </div>
 <br clear="left"/>
