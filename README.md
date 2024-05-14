@@ -36,9 +36,10 @@
 <br>
 
 <div align=center>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Surjendu-kar&theme=react&border_radius=10" alt="streak stats"/>
-  <img  src="https://github-readme-stats.vercel.app/api?username=Surjendu-kar&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surjendu-kar&theme=tokyonight" alt="Top Langs" />  
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Surjendu-kar&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Surjendu-kar&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <br/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surjendu-kar&theme=tokyonight" alt="Top Langs" />  
 </div>
 <br clear="left"/>
 <br/>
