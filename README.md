@@ -32,12 +32,14 @@
 </table>
 
 <br/>
-<div align="center">
-    <div style="margin-bottom: 20px;">
-<!--     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dev-Surjendu&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="Dev-Surjendu's Stats" /> -->
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surjendu-kar&theme=tokyonight" alt="Top Langs" />   
-    </div>
-    </div>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+<div align=center>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Surjendu-kar&theme=react&border_radius=10" alt="streak stats"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=Surjendu-kar&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surjendu-kar&theme=tokyonight" alt="Top Langs" />  
+</div>
 <br clear="left"/>
 <br/>
 <br/>
