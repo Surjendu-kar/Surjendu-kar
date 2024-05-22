@@ -3,12 +3,12 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Surjendu+kar!;+A+Passionate+Frontend+Developer👨‍💻;" />
 </h1>
-<br/>
+<!-- <br/> -->
 
 <div align="center">
-    <img width="45%" height="250px" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Programmer GIF">
+<!--     <img width="45%" height="250px" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Programmer GIF"> -->
 </div>
-<br/>
+<!-- <br/> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-surjendu&label=Profile%20views&color=0e75b6&style=flat" alt="dev-surjendu" /> </p>
 
