@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Surjendu+kar😊;+A+Passionate+Frontend+Developer👨‍💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Surjendu+kar😊;+A+Passionate+Frontend+Developer👨‍💻;+Let's+Connect!;" />
 </h1>
 <!-- <br/> -->
 
