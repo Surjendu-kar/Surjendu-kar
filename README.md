@@ -13,7 +13,7 @@
   <tr>
     <td valign="top" width="50%">
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Next.js & TS**
 - 📫 How to reach me **rahulkar9988@gmail.com**
 - 👨‍💻 All of my projects are available at [myPortfolio](https://itsmyreact-portfolio.vercel.app/)
 - [<img src="https://img.icons8.com/color/48/000000/facebook.png" alt="facebook" width="20" height="20" style="vertical-align: text-bottom; margin-right: 5px;"/>](https://www.facebook.com/rk.kar.313) Facebook: [Surjendu kar](https://www.facebook.com/rk.kar.313)
