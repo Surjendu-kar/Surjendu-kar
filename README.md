@@ -54,16 +54,22 @@
 <!-- ![Dev-Surjendu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Surjendu&theme=vue-dark&hide_border=false)  recent-->
 
 
-### Languages and Tools:
+<h3 align="center">Languages and Tools</h3><br/>
 
-[<img align="left" src="https://img.icons8.com/color/48/000000/react-native.png" alt="react-native" width="40" height="40"/>](https://reactnative.dev/)
-[<img align="left" src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/>](https://www.javascript.com/)
-[<img align="left" src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="40" height="40"/>](https://www.typescriptlang.org/)
-[<img align="left" src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase" width="40" height="40"/>](https://firebase.google.com/)
-[<img align="left" src="https://img.icons8.com/color/48/000000/html.png" alt="html" width="40" height="40"/>](https://icons8.com/icon/20909/html-5)
-[<img align="left" src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/>](https://www.w3.org/Style/CSS/)
-[<img align="left" src="https://img.icons8.com/color/48/000000/microsoft-access-2019.png" alt="microsoft-access" width="40" height="40"/>](https://www.microsoft.com/access)
-[<img align="left" src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>](https://www.python.org/)
-[<img align="left" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/>](https://www.java.com/)
-[<img align="left" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c-programming" width="40" height="40"/>](https://www.cprogramming.com/)
+<div align=center>
 
+[<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react-native" width="40" height="40"/>](https://reactnative.dev/)
+[<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/>](https://www.javascript.com/)
+[<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="40" height="40"/>](https://www.typescriptlang.org/)
+[<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>](https://firebase.google.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>](https://www.mysql.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>](https://www.oracle.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>](https://www.postgresql.org)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>](https://sass-lang.com)
+[<img src="https://img.icons8.com/color/48/000000/html.png" alt="html" width="40" height="40"/>](https://icons8.com/icon/20909/html-5)
+[<img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/>](https://www.w3.org/Style/CSS/)
+[<img src="https://img.icons8.com/color/48/000000/microsoft-access-2019.png" alt="microsoft-access" width="40" height="40"/>](https://www.microsoft.com/access)
+[<img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>](https://www.python.org/)
+[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/>](https://www.java.com/)
+[<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c-programming" width="40" height="40"/>](https://www.cprogramming.com/)
+</div>
