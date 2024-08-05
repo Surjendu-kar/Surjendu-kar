@@ -32,6 +32,13 @@
 
  <br/>
  <br/>
+
+<div align="center">
+      <h2> Trophies 🏆</h2>
+      <img src="https://github-profile-trophy.vercel.app/?username=Surjendu-kar&no-frame=true&no-bg=true&theme=flat" alt="trophy" />
+      <br/><br/>
+</div>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
  
