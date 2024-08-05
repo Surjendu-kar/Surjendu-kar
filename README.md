@@ -7,10 +7,13 @@
 </h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-surjendu&label=Profile%20views&color=0e75b6&style=flat" alt="dev-surjendu" /> </p>
-<p align="left">
+ <br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dev-surjendu&label=Profile%20views&color=0e75b6&style=flat" alt="dev-surjendu" /> </p>
+ <br/>
+
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-green.svg" />
-</p>
+</p> -->
 <table>
   <tr>
     <td valign="top" width="50%">
