@@ -66,7 +66,7 @@
 <!-- ![Dev-Surjendu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Surjendu&theme=vue-dark&hide_border=false)  recent-->
 
 
-<h3 align="center">🧑‍💻 Languages and Tools ⚙️</h3><br/>
+<h3 align="center">⚙️ Languages and Tools ⚙️</h3><br/>
 
 <div align=center>
 
