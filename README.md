@@ -43,7 +43,7 @@
 </div>
 
 <div align="center">
-  <h2>🐍 My Contributions </h2>
+  <h2>🐍 My Contributions 🐍</h2>
  
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Surjendu-kar/Surjendu-kar/output/github-contribution-grid-snake-dark.svg" />
 <br/><br/>
@@ -66,7 +66,7 @@
 <!-- ![Dev-Surjendu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Surjendu&theme=vue-dark&hide_border=false)  recent-->
 
 
-<h3 align="center">⚙️ Languages and Tools </h3><br/>
+<h3 align="center">⚙️ Languages and Tools ⚙️</h3><br/>
 
 <div align=center>
 
