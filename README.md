@@ -23,6 +23,15 @@ I'm a passionate **Full Stack Developer** with **8+ months of professional exper
 - 🎓 **Education**: BCA from Dr. B.C Roy Engineering College (8.5 CGPA)
 - 🌟 **Experience in**: School Management Systems, Course Platforms, Healthcare Applications
 
+## 🎯 Current Focus
+
+- 🌱 **Currently Learning:** Advanced Framer Motion animations
+- 🔭 **Working On:** Open source contributions and personal projects
+- 💡 **Looking to Collaborate:** Full-stack projects and innovative web solutions
+- 🎯 **Goal:** Contributing to impactful open-source projects
+
+---
+
 <div align="center">
   
 ### 📱 Connect With Me
@@ -78,14 +87,7 @@ I'm a passionate **Full Stack Developer** with **8+ months of professional exper
 
 ---
 
-## 🎯 Current Focus
 
-- 🌱 **Currently Learning:** Advanced Framer Motion animations
-- 🔭 **Working On:** Open source contributions and personal projects
-- 💡 **Looking to Collaborate:** Full-stack projects and innovative web solutions
-- 🎯 **Goal:** Contributing to impactful open-source projects
-
----
 
 ## 📊 GitHub Analytics
 
