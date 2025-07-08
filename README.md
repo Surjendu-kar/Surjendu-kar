@@ -119,7 +119,7 @@ I'm a passionate Full Stack Developer with 8+ months of professional experience 
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="200" />
+<img  alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </div>
 
 <div align="center">
