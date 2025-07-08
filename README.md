@@ -1,10 +1,5 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Surjendu%20Kar&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Web%20Solutions&descAlignY=55&descAlign=center"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&color=2AF7B4&lines=Hi+There!+👋;I'm+Surjendu+Kar+😊;Full+Stack+Developer+👨‍💻;8%2B+Months+Experience+💼;Let's+Build+Something+Amazing!+🚀" />
 </div>
 
 <div align="center">
@@ -25,10 +20,9 @@ I'm a passionate **Full Stack Developer** with **8+ months of professional exper
 
 ## 🎯 Current Focus
 
-- 🌱 **Currently Learning:** Advanced Framer Motion animations
-- 🔭 **Working On:** Open source contributions and personal projects
-- 💡 **Looking to Collaborate:** Full-stack projects and innovative web solutions
-- 🎯 **Goal:** Contributing to impactful open-source projects
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=900&height=70&duration=4000&color=2AF7B4&lines=🌱+Currently+Learning:+Advanced+Framer+Motion+animations;🔭+Working+On:+Open+source+contributions+and+personal+projects;💡+Looking+to+Collaborate:+Full-stack+projects+and+innovative+web+solutions;🎯+Goal:+Contributing+to+impactful+open-source+projects" />
+</div>
 
 ---
 
