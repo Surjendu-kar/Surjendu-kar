@@ -1,30 +1,33 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Surjendu%20Kar&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Web%20Solutions&descAlignY=55&descAlign=center"/>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Surjendu%20Kar&fontSize=90&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Tech%20Explorer&descAlignY=55&descSize=25" width="1000" />
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dev-surjendu&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile-views" />
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" />
+</div>
 
-## 🚀 About Me
+## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="handshake" width="40" /> About Me
 
 I'm a passionate **Full Stack Developer** with **8+ months of professional experience** building comprehensive web applications. I specialize in creating scalable solutions using modern technologies and have a proven track record of delivering end-to-end full-stack applications.
 
-### 🎯 Key Achievements
+### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="rocket" width="30" /> Key Achievements
 - 📦 **Published npm package**: [ByteUI-Core](https://byteui-core.vercel.app/) - Custom React component library
 - 🏢 **Professional Experience**: 3 successful internships across diverse tech companies
 - 🎓 **Education**: BCA from Dr. B.C Roy Engineering College (8.5 CGPA)
 - 🌟 **Experience in**: School Management Systems, Course Platforms, Healthcare Applications
 
-## 🎯 Current Focus
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> Current Focus
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=900&height=70&duration=4000&color=2AF7B4&lines=🌱+Currently+Learning:+Advanced+Framer+Motion+animations;🔭+Working+On:+Open+source+contributions+and+personal+projects;💡+Looking+to+Collaborate:+Full-stack+projects+and+innovative+web+solutions;🎯+Goal:+Contributing+to+impactful+open-source+projects" />
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" />
+</div>
 
 <div align="center">
   
@@ -36,10 +39,11 @@ I'm a passionate **Full Stack Developer** with **8+ months of professional exper
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" />
+</div>
 
-
-## 🛠️ Tech Stack & Skills
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> Tech Stack & Tools
 
 <div align="center">
 
@@ -78,38 +82,44 @@ I'm a passionate **Full Stack Developer** with **8+ months of professional exper
 
 </div>
 
-
----
-
-
-
-## 📊 GitHub Analytics
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Surjendu-kar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github-stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Surjendu-kar&theme=tokyonight&hide_border=true" alt="github-streak" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" />
 </div>
 
----
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="fire" width="30" /> My Coding Stats
 
-## 🏆 GitHub Trophies
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Surjendu-kar&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Surjendu Kar github stats" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surjendu-kar&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="streak-stats" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" />
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="trophy" width="30" /> GitHub Trophies
 
 <div align="center">
       <img src="https://github-profile-trophy.vercel.app/?username=Surjendu-kar&no-frame=true&no-bg=true&theme=flat" alt="trophy" />
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" />
+</div>
 
-## 🐍 Contribution Snake
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30" /> Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Surjendu-kar/Surjendu-kar/output/github-contribution-grid-snake-dark.svg" alt="snake-animation" />
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" />
+</div>
 
-
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="200" />
+</div>
 
 <div align="center">
   
