@@ -12,13 +12,15 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="handshake" width="40" /> About Me
 
-I'm a passionate Full Stack Developer with 8+ months of professional experience building comprehensive web applications. I specialize in creating scalable solutions using modern technologies and have a proven track record of delivering end-to-end full-stack applications.
+I'm a **Software Engineer at Metafic** focused on building scalable, real-world web applications. I specialize in developing end-to-end full-stack solutions using modern technologies and writing clean, maintainable code.
 
-### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="rocket" width="30" /> Key Achievements
-- 📦 Published npm package: [ByteUI-Core](https://byteui-core.vercel.app/) - Custom React component library
-- 🏢 Professional Experience: 3 successful internships across diverse tech companies
-- 🎓 Education: BCA from Dr. B.C Roy Engineering College (8.5 CGPA)
-- 🌟 Experience in: School Management Systems, Course Platforms, Healthcare Applications
+### 🚀 Key Achievements
+- 🏢 **Software Engineer at Metafic** – Contributing to real-world web applications and production features
+- 📦 Published npm package: [ByteUI-Core](https://byteui-core.vercel.app/) – Custom React component library
+- 🧑‍💻 Hands-on experience across **3 companies** through internships and professional roles
+- 🎓 BCA graduate from Dr. B.C Roy Engineering College (8.5 CGPA)
+- 🌟 Built applications for **School Management, Course Platforms, and Healthcare** domains
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> Current Focus
 
@@ -124,8 +126,8 @@ I'm a passionate Full Stack Developer with 8+ months of professional experience 
 
 <div align="center">
 
-### 💡 Fun Fact
-"Code is like humor. When you have to explain it, it's bad." - Cory House
+###
+I enjoy turning complex requirements into simple, maintainable code and learning something new with every project.
 
 Thanks for visiting my profile! Let's connect and build something amazing together! 🚀
 
