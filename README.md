@@ -93,17 +93,7 @@ I'm a **Software Engineer at Metafic** focused on building scalable, real-world 
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Surjendu-kar&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Surjendu Kar github stats" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surjendu-kar&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="streak-stats" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" />
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="trophy" width="30" /> GitHub Trophies
-
-<div align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Surjendu-kar&no-frame=true&no-bg=true&theme=flat" alt="trophy" />
+ 
 </div>
 
 <div align="center">
