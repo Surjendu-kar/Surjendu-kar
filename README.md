@@ -22,14 +22,53 @@ I'm a **Software Engineer at Metafic** focused on building scalable, real-world 
 - 🌟 Built applications for **School Management, Course Platforms, and Healthcare** domains
 
 
+## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30" /> Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">EduExamPortal</h3>
+      <p align="center">Online examination platform with role-based access for students and teachers.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Surjendu-kar/EduExamPortal"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://edu-exam-portal.vercel.app/"><img src="https://img.shields.io/badge/Live-FF5722?style=flat-square&logo=vercel&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Nexa</h3>
+      <p align="center">Modern full-stack application built with the latest web technologies.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Surjendu-kar/Nexa"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://animated-web-next-js.vercel.app/"><img src="https://img.shields.io/badge/Live-FF5722?style=flat-square&logo=vercel&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">ByteUI-core</h3>
+      <p align="center">Custom React component library published on npm for fast UI development.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Surjendu-kar/ByteUI-core"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://byteui-core.vercel.app/"><img src="https://img.shields.io/badge/Live-FF5722?style=flat-square&logo=vercel&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> Current Focus
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=900&height=70&duration=4000&color=2AF7B4&lines=🌱+Currently+Learning:+Advanced+Framer+Motion+animations;🔭+Working+On:+Open+source+contributions+and+personal+projects;💡+Looking+to+Collaborate:+Full-stack+projects+and+innovative+web+solutions;🎯+Goal:+Contributing+to+impactful+open-source+projects" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" />
 </div>
 
 <div align="center">
@@ -40,10 +79,6 @@ I'm a **Software Engineer at Metafic** focused on building scalable, real-world 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surjendu-kar/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulkar9988@gmail.com)
 
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" />
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> Tech Stack & Tools
@@ -85,29 +120,20 @@ I'm a **Software Engineer at Metafic** focused on building scalable, real-world 
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" />
-</div>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="fire" width="30" /> My Coding Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Surjendu-kar&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Surjendu Kar github stats" /> 
- 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surjendu-kar&hide_border=true&background=0d1117&stroke=0d1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideNums=c9d1d9" alt="Surjendu Kar streak stats" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Surjendu-kar&theme=onedark&no-frame=true&no-bg=true&column=4&row=2&margin-w=10&margin-h=10" alt="Trophies" />
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30" /> Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Surjendu-kar/Surjendu-kar/output/github-contribution-grid-snake-dark.svg" alt="snake-animation" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" />
 </div>
 
 <div align="center">
